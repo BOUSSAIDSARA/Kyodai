@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="play">play</string>
+    <string name="score">score</string>
+    <string name="about">about</string>
+    <string name="developpeur_boussaid_sara">Developpeur : BOUSSAID SARA</string>
+    <string name="cat_gorie_jeux">Catégorie : Jeux</string>
+    <string name="nom_kyodai">Nom : Kyodai</string>
+    <string name="retrn">return</string>
+    <string name="return">return</string>
+
 </resources>
